@@ -1,2 +1,0 @@
-# drclear
-My awesome repository
